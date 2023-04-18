@@ -31,3 +31,10 @@ main{
     background-repeat: no-repeat;
     background-size: contain;
 }
+#tela{
+    position: relative;
+    top: 51px;
+    left: 14px;
+    width:171px;
+    height: 300px;
+}
